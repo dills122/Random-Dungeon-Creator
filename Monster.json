@@ -1,0 +1,3 @@
+{"Monsters":[
+    { "name":"Zombie", "difficulty":"3","description":"Basic Zombie", "health":"110","defense":"3","reward":"2" }
+]}
